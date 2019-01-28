@@ -10,8 +10,8 @@ Perhaps a way of overcoming that is to attack the points of stress in an intelle
 
 Jan: Meditate daily.
 Feb: Exercise daily.
-Mar:
-Apr: 
+Mar: No electronics 90 minutes before bed.  e-ink e-reader doesn't count.
+Apr:
 May:
 Jun:
 Jul:
@@ -34,12 +34,19 @@ Dec:
 
 ## Hopes
 
+## In 1 Year (39)
+* Reset Hives, but better.
+* Raising rabbits.
+
+## In 2 Years (40)
+* Definite fence around field.
+* I have a book draft completed.
+
 ## In 3 Years (41)
 * Ash is 5
 * Io is 3
 * I am still working at TWG
 * I have done demo at TWG again
-* I have a book draft completed.
 
 ## In 5 Years (43)
 * Ash is 7
