@@ -37,10 +37,13 @@ Dec:
 ## In 1 Year (39)
 * Reset Hives, but better.
 * Raising rabbits.
+* I have a book draft completed.
+* I have sent a book out for inquiry for publication.
 
 ## In 2 Years (40)
 * Definite fence around field.
-* I have a book draft completed.
+* I attend the Nebula Conference
+* 
 
 ## In 3 Years (41)
 * Ash is 5
